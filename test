@@ -66,3 +66,6 @@ def changeChineseNumToArab(oriStr):
         aProStr += str(resultNum)
 
     return aProStr
+
+
+2 = 3
